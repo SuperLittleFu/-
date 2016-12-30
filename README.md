@@ -1,6 +1,5 @@
-# Use-probability-arithmetic-calculate-the-PI
+# Some of my math problems
 
 
 
-无聊之作。。慢慢看吧。。
-
+这里面记录着我一些用程序算法解决的数学问题
